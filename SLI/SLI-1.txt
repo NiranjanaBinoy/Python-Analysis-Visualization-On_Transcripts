@@ -1,0 +1,264 @@
+@UTF8
+@PID:	11312/c-00036109-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, EXA Investigator
+@ID:	eng|ENNI|CHI|4;11.16|male|SLI||Target_Child|||
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@Comment:	Birth of CHI is 9-MAY-1995
+@Date:	25-APR-2000
+@Tape Location:	Disk L10 Track 3
+@Bg:	A1
+*CHI:	I saw a giraffe and a elephant .
+%mor:	pro:sub|I v|see&PAST det:art|a n|giraffe coord|and det:art|a
+	n|elephant .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+*CHI:	<that> [/] (.) that (i)s it . [+ bch]
+%mor:	pro:dem|that cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	I saw an elephant go swimming .
+%mor:	pro:sub|I v|see&PAST det:art|a n|elephant v|go part|swim-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*CHI:	<I saw eleph> [//] I saw the <g> [/] giraffe and the elephant <s>
+	[//] drop ball in the pool .
+%mor:	pro:sub|I v|see&PAST det:art|the n|giraffe coord|and det:art|the
+	n|elephant n|drop n|ball prep|in det:art|the n|pool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|COORD 10|9|NJCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*CHI:	I saw giraffe swimming in the pool to get that ball .
+%mor:	pro:sub|I v|see&PAST n|giraffe part|swim-PRESP prep|in det:art|the
+	n|pool inf|to v|get pro:dem|that n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|XJCT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|INF
+	9|4|XCOMP 10|11|DET 11|9|OBJ 12|2|PUNCT
+*CHI:	the giraffe got to get out of that pool .
+%mor:	det:art|the n|giraffe v|get&PAST inf|to v|get adv|out prep|of
+	pro:dem|that n|pool .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*CHI:	the [?] giraffe always get wet .
+%mor:	det:art|the n|giraffe adv|always v|get part|wet&PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	that (i)s the end . [+ bch]
+%mor:	pro:rel|that cop|be&3S det:art|the n|end .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@Eg:	A1
+@Bg:	A2
+*CHI:	<the> [/] <the giraffe> [//] (.) the boy is gone .
+%mor:	det:art|the n|boy aux|be&3S part|go&PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	<the> [/] the elephant going to jump in the pool, make it splash .
+%mor:	det:art|the n|elephant part|go-PRESP prep|to n|jump prep|in
+	det:art|the n|pool cm|cm v|make pro:per|it v|splash .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|LP 10|3|CJCT 11|12|SUBJ 12|10|COMP 13|3|PUNCT
+*CHI:	<then the> [/] and that giraffe (i)s working getting the <uh> [/]
+	xxx .
+%mor:	coord|and pro:dem|that n|giraffe aux|be&3S part|work-PRESP
+	part|get-PRESP det:art|the .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT 7|8|DET 8|6|OBJ
+*CHI:	elephant hurt his leg .
+%mor:	n|elephant v|hurt&ZERO det:poss|his n|leg .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	elephant cry !
+%mor:	n|elephant v|cry !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	elephant lose his eye [?] .
+%mor:	n|elephant v|lose det:poss|his n|eye .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	elephant sit down (.) and get bandaid .
+%mor:	n|elephant v|sit adv|down coord|and v|get n|bandaid .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|4|COORD 6|5|OBJ 7|2|PUNCT
+*CHI:	<eh elephant lo look> [/] the elephant (.) sit down .
+%mor:	det:art|the n|elephant v|sit adv|down .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	that (i)s the end . [+ bch]
+%mor:	pro:rel|that cop|be&3S det:art|the n|end .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@Eg:	A2
+@Bg:	A3
+*CHI:	the giraffe talk with xxx giraffe .
+%mor:	det:art|the n|giraffe n|talk prep|with n|giraffe .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*CHI:	the giraffe play with a plane .
+%mor:	det:art|the n|giraffe n|play prep|with det:art|a n|plane .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	elephant <l> [/] get the plane .
+%mor:	n|elephant v|get det:art|the n|plane .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and (.) he get it .
+%mor:	coord|and pro:sub|he v|get pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	<he> [/] <he> [/] he hold it .
+%mor:	pro:sub|he v|hold pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	the elephant dropped the plane in the water .
+%mor:	det:art|the n|elephant v|drop-PAST det:art|the n|plane prep|in
+	det:art|the n|water .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	<the p> [//] <the> [/] <the> [//] < the> [/] that giraffe xxx the
+	elephant .
+%mor:	pro:dem|that n|giraffe det:art|the n|elephant .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	<that> [/] <hm m> [/] <that> [/] <uh uh> [/] that giraffe look at
+	that plane and <look> [//] swims in the pool .
+%mor:	pro:dem|that n|giraffe cop|look prep|at pro:dem|that n|plane
+	coord|and n|swim-PL prep|in det:art|the n|pool .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*CHI:	<uh (.) uh> [/] that elephant look at that (.) elephant .
+%mor:	pro:dem|that n|elephant cop|look prep|at pro:dem|that n|elephant .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	<that eleph> [/] that elephant look at that plane in the water .
+%mor:	pro:dem|that n|elephant cop|look prep|at pro:dem|that n|plane
+	prep|in det:art|the n|water .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*CHI:	<and> [/] <and that> [/] and that giraffe cry !
+%mor:	coord|and pro:dem|that n|giraffe v|cry !
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	<and tha> [//] and there (i)s three elephants .
+%mor:	coord|and adv|there cop|be&3S det:num|three n|elephant-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*EXA:	what's happening ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	<uh> [/] that elephant going to pick the plane out of the pool .
+%mor:	pro:dem|that n|elephant part|go-PRESP inf|to v|pick det:art|the
+	v|plane adv|out prep|of det:art|the n|pool .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	he get it out .
+%mor:	pro:sub|he v|get pro:per|it adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	he got it .
+%mor:	pro:sub|he v|get&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	he got it <for> [/] for <the> [/] the giraffe .
+%mor:	pro:sub|he v|get&PAST pro:per|it prep|for det:art|the n|giraffe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	that (i)s the end . [+ bch]
+%mor:	pro:rel|that cop|be&3S det:art|the n|end .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@Eg:	A3
+@Bg:	B1
+*CHI:	<the> [//] <th this> [//] <the> [/] <the> [/] <the> [/] <the> [/]
+	<the> [/] the guy (.) making a sandcastle .
+%mor:	det:art|the n|guy part|make-PRESP det:art|a n|+n|sand+n|castle .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CHI:	and that rabbit making a sandcastle too .
+%mor:	coord|and pro:dem|that n|rabbit part|make-PRESP det:art|a
+	n|+n|sand+n|castle post|too .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|XJCT 5|6|DET 6|4|OBJ 7|6|PQ 8|3|PUNCT
+*CHI:	he spilled on (.) that guy's castle .
+%mor:	pro:sub|he v|spill-PAST prep|on pro:dem|that n|guy~poss|s n|castle
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|DET 5|7|MOD 6|5|POSS 7|3|POBJ 8|2|PUNCT
+*CHI:	it (i)s all broken .
+%mor:	pro:per|it cop|be&3S adv|all part|break&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*CHI:	<th> [/] <that> [/] that [!] guy cry .
+%mor:	pro:dem|that n|guy v|cry .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	that (i)s the end . [+ bch]
+%mor:	pro:rel|that cop|be&3S det:art|the n|end .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@Eg:	B1
+@Bg:	B2
+*CHI:	<ah> [/] this guy and this rabbit are going eat (.) outside .
+%mor:	pro:dem|this n|guy coord|and pro:dem|this n|rabbit aux|be&PRES
+	part|go-PRESP v|eat adv|outside .
+%gra:	1|2|DET 2|7|SUBJ 3|2|CONJ 4|5|DET 5|3|COORD 6|7|AUX 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*CHI:	they eating some food .
+%mor:	pro:sub|they part|eat-PRESP qn|some n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	<the> [/] that guy having a drink .
+%mor:	pro:dem|that n|guy part|have-PRESP det:art|a n|drink .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XJCT 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CHI:	that rabbit is full .
+%mor:	pro:dem|that n|rabbit aux|be&3S adj|full .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	that rabbit (.) is done that .
+%mor:	pro:dem|that n|rabbit aux|be&3S part|do&PASTP pro:dem|that .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	this guy hold rabbit's jacket .
+%mor:	pro:dem|this n|guy n|hold n|rabbit~poss|s n|jacket .
+%gra:	1|6|DET 2|6|MOD 3|6|MOD 4|6|MOD 5|4|POSS 6|0|INCROOT 7|6|PUNCT
+*CHI:	<an> [/] and this guy (.) is sick .
+%mor:	coord|and pro:dem|this n|guy cop|be&3S adj|sick .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	that rabbit going take him to the hospital .
+%mor:	pro:dem|that n|rabbit part|go-PRESP v|take pro:obj|him prep|to
+	det:art|the n|hospital .
+%gra:	1|2|DET 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	that (i)s the end . [+ bch]
+%mor:	pro:rel|that cop|be&3S det:art|the n|end .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@Eg:	B2
+@Bg:	B3
+*CHI:	<uh> [/] that guy get balloon for a rabbit .
+%mor:	pro:dem|that n|guy v|get n|balloon prep|for det:art|a n|rabbit .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	that rabbit going get the balloon .
+%mor:	pro:dem|that n|rabbit part|go-PRESP v|get det:art|the n|balloon .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|OBJ 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	<the> [/] then <that> [/] <that> [/] that rabbit going tie the
+	balloon off .
+%mor:	adv:tem|then pro:rel|that n|rabbit part|go-PRESP n|tie det:art|the
+	n|balloon adv|off .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|MOD 4|5|MOD 5|1|CMOD 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|1|PUNCT
+*CHI:	<an> [/] and the rabbit going hold it .
+%mor:	coord|and det:art|the n|rabbit part|go-PRESP n|hold pro:per|it .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|5|MOD 5|3|XMOD 6|5|OBJ 7|1|PUNCT
+*CHI:	and it flew up to the sky .
+%mor:	coord|and pro:per|it v|fly&PAST adv|up prep|to det:art|the n|sky .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	it flewed [: flew] [* m:+ed] up .
+%mor:	pro:per|it v|fly&PAST adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	and that guy is mad (be)cause she (i)s let it up to the sky .
+%mor:	coord|and pro:dem|that n|guy cop|be&3S adj|mad conj|because
+	pro:sub|she aux|be&3S v|let&ZERO pro:per|it adv|up prep|to
+	det:art|the n|sky .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|9|OBJ 11|9|JCT 12|9|JCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*CHI:	<an> [/] <and this> [/] and this guy have lots of balloons .
+%mor:	coord|and pro:dem|this n|guy aux|have n|lot-PL prep|of n|balloon-PL
+	.
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|NJCT 7|6|POBJ 8|5|PUNCT
+*CHI:	an(d) that rabbit want this [!] one .
+%mor:	coord|and pro:dem|that n|rabbit v|want pro:dem|this pro:indef|one .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	<he want> [/] he want .
+%mor:	pro:sub|he v|want .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	look at his pants .
+%mor:	cop|look prep|at det:poss|his n:pt|pants .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	xxx .
+*CHI:	then rabbit do n(o)t want a balloon .
+%mor:	adv:tem|then n|rabbit mod|do neg|not v|want det:art|a n|balloon .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	<uh> [/] not gonna xxx xxx that rabbit .
+%mor:	neg|not part|go-PRESP~inf|to pro:dem|that n|rabbit .
+%gra:	1|2|NEG 2|0|ROOT 3|4|INF 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	<that guy c> [//] <that w> [/] that rabbit want a balloon .
+%mor:	pro:dem|that n|rabbit v|want det:art|a n|balloon .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	an(d) <he (i)s> [/] he (i)s going <get> [/] get some money and get
+	a balloon !
+%mor:	coord|and pro:sub|he aux|be&3S part|go-PRESP v|get qn|some n|money
+	coord|and v|get det:art|a n|balloon !
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|5|PUNCT
+*CHI:	<he> [/] <he get> [/] he hold it .
+%mor:	pro:sub|he v|hold pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	that (i)s the end . [+ bch]
+%mor:	pro:rel|that cop|be&3S det:art|the n|end .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@Eg:	B3
+@End

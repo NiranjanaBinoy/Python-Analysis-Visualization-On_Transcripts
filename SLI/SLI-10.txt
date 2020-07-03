@@ -1,0 +1,267 @@
+@UTF8
+@PID:	11312/c-00036143-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, EXA Investigator
+@ID:	eng|ENNI|CHI|6;08.24|female|SLI||Target_Child|||
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@Comment:	Birth of CHI is 24-APR-1995
+@Date:	20-JAN-2002
+@Tape Location:	Disk M12, Track 12
+@Bg:	A1
+*CHI:	<um> [/] elephant and the giraffe want to go in the water [!] .
+%mor:	n|elephant coord|and det:art|the n|giraffe v|want inf|to v|go
+	prep|in det:art|the n|water .
+%gra:	1|0|INCROOT 2|5|LINK 3|4|DET 4|5|SUBJ 5|1|CJCT 6|7|INF 7|5|XCOMP
+	8|7|JCT 9|10|DET 10|8|POBJ 11|1|PUNCT
+*CHI:	and then the balloon went in the water [!] .
+%mor:	coord|and adv:tem|then det:art|the n|balloon v|go&PAST prep|in
+	det:art|the n|water .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*CHI:	and then the giraffe went to swim and get the balloon .
+%mor:	coord|and adv:tem|then det:art|the n|giraffe v|go&PAST inf|to
+	v|swim coord|and v|get det:art|the n|balloon .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|5|PUNCT
+*CHI:	and (.) then <the giraffe said (.) thank you to the uh> [//] the
+	<uh> [/] (.) elephant said thank you to the giraffe .
+%mor:	coord|and adv:tem|then det:art|the n|elephant v|say&PAST v|thank
+	pro:per|you prep|to det:art|the n|giraffe .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	and he said I am not going to get <the balloo> [/] <wa um the> [//]
+	the ball in the water .
+%mor:	coord|and pro:sub|he v|say&PAST pro:sub|I aux|be&1S neg|not
+	part|go-PRESP inf|to v|get det:art|the n|ball prep|in det:art|the
+	n|water .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|9|INF
+	9|7|XCOMP 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+@Eg:	A1
+@Bg:	A2
+*CHI:	<um> [/] the giraffe (.) and the (.) elephant were (.) looking at
+	the water .
+%mor:	det:art|the n|giraffe coord|and det:art|the n|elephant aux|be&PAST
+	part|look-PRESP prep|at det:art|the n|water .
+%gra:	1|2|DET 2|0|INCROOT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|CMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	and she was (.) starting to run .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|start-PRESP inf|to v|run
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	and then she fall down (.) and hurt herself .
+%mor:	coord|and adv:tem|then pro:sub|she v|fall adv|down coord|and
+	v|hurt&ZERO pro:refl|herself .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|7|OBJ
+	9|4|PUNCT
+*CHI:	and <then> [/] then the lifeguard comed and (.) looked at her knee .
+%mor:	coord|and adv:tem|then det:art|the n|lifeguard co#n|med coord|and
+	cop|look-PAST prep|at det:poss|her n|knee .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|XMOD 6|5|CONJ 7|6|COORD
+	8|7|JCT 9|10|MOD 10|8|POBJ 11|1|PUNCT
+*CHI:	and then (.) she start to cry .
+%mor:	coord|and adv:tem|then pro:sub|she v|start inf|to v|cry .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	and then she put a bandage on .
+%mor:	coord|and adv:tem|then pro:sub|she v|put&ZERO det:art|a n|bandage
+	adv|on .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*CHI:	and then <she said> [//] the lifeguard said look at the sign .
+%mor:	coord|and adv:tem|then det:art|the n|lifeguard v|say&PAST cop|look
+	prep|at det:art|the n|sign .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*CHI:	<there's> [/-] it says no running .
+%mor:	pro:per|it v|say-3S qn|no part|run-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+@Eg:	A2
+@Bg:	A3
+*CHI:	<um> [/] the (.) giraffe has a airplane .
+%mor:	det:art|the n|giraffe v|have&3S det:art|a n|airplane .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and they want to play with the airplane .
+%mor:	coord|and pro:sub|they v|want inf|to v|play prep|with det:art|the
+	n|airplane .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	and they played with it .
+%mor:	coord|and pro:sub|they v|play-PAST prep|with pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<and she> [//] and the (.) elephant grabbed it from the giraffe .
+%mor:	coord|and det:art|the n|elephant v|grab-PAST pro:per|it prep|from
+	det:art|the n|giraffe .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	and then it <goed into> [//] falled in the water .
+%mor:	coord|and adv:tem|then pro:per|it v|fall-PAST prep|in det:art|the
+	n|water .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and then the giraffe was very angry .
+%mor:	coord|and adv:tem|then det:art|the n|giraffe cop|be&PAST&13S
+	adv|very adj|angry .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|PUNCT
+*CHI:	and then a lifeguard camed [: came] [* m:+ed] (..) and (.) said
+	could you help (.) me take this <uh> [/] airplane out of the water ?
+%mor:	coord|and adv:tem|then det:art|a n|lifeguard v|come&PAST coord|and
+	v|say&PAST mod|could pro:per|you v|help pro:obj|me v|take
+	pro:dem|this n|airplane adv|out prep|of det:art|the n|water ?
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|CONJ 7|6|COORD 8|10|AUX
+	9|10|SUBJ 10|7|COMP 11|10|OBJ 12|10|XCOMP 13|14|DET 14|12|OBJ 15|12|JCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|5|PUNCT
+*CHI:	<and> [/] and the lifeguard could n(o)t reach it .
+%mor:	coord|and det:art|the n|lifeguard mod|could neg|not v|reach
+	pro:per|it .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	and <then> [/] (.) then the (.) giraffe started to cry .
+%mor:	coord|and adv:tem|then det:art|the n|giraffe v|start-PAST inf|to
+	v|cry .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|5|PUNCT
+*CHI:	and <then> [/] (.) then the lady went to get the airplane .
+%mor:	coord|and adv:tem|then det:art|the n|lady v|go&PAST inf|to v|get
+	det:art|the n|airplane .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|9|DET
+	9|7|OBJ 10|5|PUNCT
+*CHI:	and she (.) got it with a net .
+%mor:	coord|and pro:sub|she v|get&PAST pro:per|it prep|with det:art|a
+	n|net .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and then she said thank you to the lady (.) the giraffe .
+%mor:	coord|and adv:tem|then pro:sub|she v|say&PAST v|thank pro:per|you
+	prep|to det:art|the n|lady det:art|the n|giraffe .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|11|DET 11|9|OBJ 12|4|PUNCT
+*CHI:	and <then> [/] then the (.) elephant smiled at him .
+%mor:	coord|and adv:tem|then det:art|the n|elephant v|smile-PAST prep|at
+	pro:obj|him .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+@Eg:	A3
+@Bg:	B1
+*CHI:	a dog and a rabbit is talking together .
+%mor:	det:art|a n|dog coord|and det:art|a n|rabbit aux|be&3S
+	part|talk-PRESP adv|together .
+%gra:	1|2|DET 2|0|INCROOT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|CMOD 8|7|JCT
+	9|2|PUNCT
+*CHI:	they (a)re making a sandcastle together .
+%mor:	pro:sub|they aux|be&PRES part|make-PRESP det:art|a
+	n|+n|sand+n|castle adv|together .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*CHI:	and they put sand on top of the sandcastle .
+%mor:	coord|and pro:sub|they v|put&ZERO n|sand prep|on n|top prep|of
+	det:art|the n|+n|sand+n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*CHI:	<and> [/] and it got smashed .
+%mor:	coord|and pro:per|it aux|get&PAST part|smash-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	and then the (..) dog was trying to get it back together .
+%mor:	coord|and adv:tem|then det:art|the n|dog aux|be&PAST&13S
+	part|try-PRESP inf|to v|get pro:per|it adv|back adv|together .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|XCOMP
+	9|8|OBJ 10|11|JCT 11|8|JCT 12|6|PUNCT
+@Eg:	B1
+@Bg:	B2
+*CHI:	<um shhh> [/] he is meeting new friend .
+%mor:	pro:sub|he aux|be&3S part|meet-PRESP adj|new n|friend .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	and they they (a)re going to have a picnic together .
+%mor:	coord|and pro:sub|they pro:sub|they aux|be&PRES part|go-PRESP
+	inf|to v|have det:art|a n|picnic adv|together .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|7|INF 7|5|XCOMP
+	8|9|DET 9|7|OBJ 10|9|NJCT 11|1|PUNCT
+*CHI:	and then they got tummyache .
+%mor:	coord|and adv:tem|then pro:sub|they v|get&PAST n|+n|tummy+n|ache .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	<one was um> [//] the rabbit was sick .
+%mor:	det:art|the n|rabbit cop|be&PAST&13S adj|sick .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and the dog was n(o)t sick .
+%mor:	coord|and det:art|the n|dog aux|be&PAST&13S neg|not adj|sick .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*CHI:	<and (.) there's> [//] and there was a lady .
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a n|lady .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*CHI:	and the dog was trying to talk to the lady .
+%mor:	coord|and det:art|the n|dog aux|be&PAST&13S part|try-PRESP inf|to
+	v|talk prep|to det:art|the n|lady .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	and she was pulling the lady to the rabbit .
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|pull-PRESP det:art|the
+	n|lady prep|to det:art|the n|rabbit .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	and they were checking her .
+%mor:	coord|and pro:sub|they aux|be&PAST part|check-PRESP pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and then she (.) went with the doctor .
+%mor:	coord|and adv:tem|then pro:sub|she v|go&PAST prep|with det:art|the
+	n|doctor .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+@Eg:	B2
+@Bg:	B3
+*CHI:	there (i)s <the> [/] the dog and the rabbit .
+%mor:	adv|there cop|be&3S det:art|the n|dog coord|and det:art|the
+	n|rabbit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+*CHI:	and the dog got a balloon .
+%mor:	coord|and det:art|the n|dog v|get&PAST det:art|a n|balloon .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and the rabbit want a balloon .
+%mor:	coord|and det:art|the n|rabbit v|want det:art|a n|balloon .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and <he was> [//] <she> [//] the rabbit was untying it .
+%mor:	coord|and det:art|the n|rabbit aux|be&PAST&13S
+	un#n:gerund|tie-PRESP pro:per|it .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and then it flew in the air .
+%mor:	coord|and adv:tem|then pro:per|it v|fly&PAST prep|in det:art|the
+	n|air .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and the dog was very angry .
+%mor:	coord|and det:art|the n|dog cop|be&PAST&13S adv|very adj|angry .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*CHI:	<and then they went> [//] <and then I saw> [//] and the rabbit and
+	the dog saw a balloon man .
+%mor:	coord|and det:art|the n|rabbit coord|and det:art|the n|dog
+	v|see&PAST det:art|a n|balloon n|man .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|CMOD
+	8|10|DET 9|10|MOD 10|7|OBJ 11|1|PUNCT
+*CHI:	and the rabbit want a balloon .
+%mor:	coord|and det:art|the n|rabbit v|want det:art|a n|balloon .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and he said do you have any money .
+%mor:	coord|and pro:sub|he v|say&PAST v|do pro:per|you v|have qn|any
+	n|money .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|4|COMP 7|8|QUANT 8|6|OBJ
+	9|3|PUNCT
+*CHI:	and he said no .
+%mor:	coord|and pro:sub|he v|say&PAST co|no .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	so they could n(o)t get a balloon .
+%mor:	co|so pro:sub|they mod|could neg|not v|get det:art|a n|balloon .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	<so they were> [//] so they went to the lady and got a balloon .
+%mor:	co|so pro:sub|they v|go&PAST prep|to det:art|the n|lady coord|and
+	v|get&PAST det:art|a n|balloon .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*CHI:	<and she said could I> [//] and the rabbit said could I have some
+	money [?] .
+%mor:	coord|and det:art|the n|rabbit v|say&PAST mod|could pro:sub|I
+	v|have qn|some n|money .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|AUX 6|7|SUBJ 7|4|COMP 8|9|QUANT
+	9|7|OBJ 10|4|PUNCT
+*CHI:	and they gived it to the balloon man .
+%mor:	coord|and pro:sub|they v|give-PAST pro:per|it prep|to det:art|the
+	n|balloon n|man .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*CHI:	and then they got a balloon .
+%mor:	coord|and adv:tem|then pro:sub|they v|get&PAST det:art|a n|balloon
+	.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and they were happy then .
+%mor:	coord|and pro:sub|they cop|be&PAST adj|happy adv:tem|then .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|3|PUNCT
+@Eg:	B3
+@End

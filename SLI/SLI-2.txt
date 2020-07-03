@@ -1,0 +1,278 @@
+@UTF8
+@PID:	11312/c-00036117-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, EXA Investigator
+@ID:	eng|ENNI|CHI|4;09.08|female|SLI||Target_Child|||
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@Comment:	Birth of CHI is 27-FEB-1998
+@Date:	05-DEC-2002
+@Location:	Disk L31 Track 1
+@Bg:	A1
+*CHI:	the (.) elephant wants to get the balloons .
+%mor:	det:art|the n|elephant v|want-3S inf|to v|get det:art|the
+	n|balloon-PL .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	she lost her balloon .
+%mor:	pro:sub|she v|lose&PAST det:poss|her n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	and <she said> [//] oh my (.) elephant said .
+%mor:	coord|and co|oh det:poss|my n|elephant v|say&PAST .
+%gra:	1|5|LINK 2|5|COM 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	and that [!] said (.) he'd get it for <her> [//] the elephant .
+%mor:	coord|and pro:rel|that v|say&PAST pro:sub|he~mod|genmod aux|get
+	pro:per|it prep|for det:art|the n|elephant .
+%gra:	1|3|LINK 2|3|LINK 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*CHI:	she was so proud to go get her balloon .
+%mor:	pro:sub|she cop|be&PAST&13S adv|so adj|proud inf|to v|go v|get
+	det:poss|her n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|6|INF 6|7|SRL 7|4|CMOD 8|9|MOD
+	9|7|OBJ 10|2|PUNCT
+*CHI:	she wants to get it and like [?] her .
+%mor:	pro:sub|she v|want-3S inf|to v|get pro:per|it coord|and co|like
+	pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|CONJ 7|8|COM 8|6|COORD
+	9|2|PUNCT
+@Eg:	A1
+@Bg:	A2
+*CHI:	the (.) that elephant wants to get in the pool .
+%mor:	det:art|the pro:dem|that n|elephant v|want-3S inf|to v|get prep|in
+	det:art|the n|pool .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	<the elephant pus> [//] (.) he push her in .
+%mor:	pro:sub|he v|push det:poss|her adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*CHI:	and <she's like> [//] (.) she runned .
+%mor:	coord|and pro:sub|she v|run-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	< (.) and it's like (.)> [/-] she went [^ yeeha] .
+%mor:	pro:sub|she v|go&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	and she hurt her knee .
+%mor:	coord|and pro:sub|she v|hurt&ZERO det:poss|her n|knee .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	and she cried .
+%mor:	coord|and pro:sub|she v|cry-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	then (.) it was so better (.) in the bandaid .
+%mor:	adv:tem|then pro:per|it cop|be&PAST&13S adv|so adj|good&CP prep|in
+	det:art|the n|bandaid .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	and (.) she likes her b:andaid .
+%mor:	coord|and pro:sub|she v|like-3S det:poss|her n|bandaid .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	it help her feel better .
+%mor:	pro:per|it v|help pro:obj|her v|feel adj|good&CP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+@Eg:	A2
+@Bg:	A3
+*CHI:	the elephant <was> [//] (.) <the ban> [/] (.) the bandaid help her
+	feel better .
+%mor:	det:art|the n|elephant det:art|the n|bandaid v|help pro:obj|her
+	v|feel adj|good&CP .
+%gra:	1|2|DET 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|COMP 8|7|JCT
+	9|5|PUNCT
+*CHI:	then (.) she fall down in a airplane .
+%mor:	adv:tem|then pro:sub|she v|fall adv|down prep|in det:art|a
+	n|airplane .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and she got it in the airplane .
+%mor:	coord|and pro:sub|she v|get&PAST pro:per|it prep|in det:art|the
+	n|airplane .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and she was so happy .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|so adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	then she was (.) so happy to get <uh> [/] (.) her airplane .
+%mor:	adv:tem|then pro:sub|she cop|be&PAST&13S adv|so adj|happy inf|to
+	v|get det:poss|her n|airplane .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|INF 7|5|XCOMP 8|9|MOD
+	9|7|OBJ 10|3|PUNCT
+*CHI:	she wants her airplane back .
+%mor:	pro:sub|she v|want-3S det:poss|her n|airplane adv|back .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*CHI:	then (.) she wants it .
+%mor:	adv:tem|then pro:sub|she v|want-3S pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	and <she wants> [//] (.) then (.) he will get it for her .
+%mor:	coord|and adv:tem|then pro:sub|he mod|will v|get pro:per|it
+	prep|for pro:obj|her .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*CHI:	<and sh> [//] (.) and he could reach it for her .
+%mor:	coord|and pro:sub|he mod|could v|reach pro:per|it prep|for
+	pro:obj|her .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	and thinks so he could .
+%mor:	coord|and v|think-3S conj|so pro:sub|he mod|could .
+%gra:	1|2|LINK 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	and he gots [: has got] xxx [^ sounds like "basmin"] and like a
+	suit .
+%mor:	coord|and pro:sub|he aux|have&3S part|get&PASTP coord|and co|like
+	det:art|a n|suit .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|CONJ 6|8|COM 7|8|DET 8|5|COORD
+	9|4|PUNCT
+*CHI:	I guess (.) <she> [//] (.) he (.) <xxx> [/] got <hims ai> [//] her
+	airplane .
+%mor:	pro:sub|I v|guess pro:sub|he v|get&PAST det:poss|her n|airplane .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|4|OBJ 7|2|PUNCT
+*CHI:	and she was still happy .
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|still adj|happy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	<and> [/] and this other was (.) mines .
+%mor:	coord|and pro:dem|this pro:indef|other cop|be&PAST&13S n|mine-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|SUBJ 4|2|CMOD 5|4|PRED 6|1|PUNCT
+*CHI:	and that's the end . [+ bch]
+%mor:	coord|and pro:dem|that~cop|be&3S det:art|the n|end .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+@Eg:	A3
+@Bg:	B1
+*CHI:	<the elephant um> [//] (.) they want to make a sandcastle .
+%mor:	pro:sub|they v|want inf|to v|make det:art|a n|+n|sand+n|castle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	and they build it .
+%mor:	coord|and pro:sub|they v|build pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	and they build it .
+%mor:	coord|and pro:sub|they v|build pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	then (.) he messed it up for him .
+%mor:	adv:tem|then pro:sub|he v|mess-PAST pro:per|it adv|up prep|for
+	pro:obj|him .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	and it (i)s so (..) beautiful .
+%mor:	coord|and pro:per|it aux|be&3S adv|so adj|beautiful .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	and they xxx .
+%mor:	coord|and pro:sub|they .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*CHI:	and he was sad .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adj|sad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and he was sad too .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adj|sad post|too .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|PQ 6|3|PUNCT
+*CHI:	end . [+ bch]
+%mor:	n|end .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Eg:	B1
+@Bg:	B2
+*CHI:	a letter !
+%mor:	det:art|a n|letter !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	a letter !
+%mor:	det:art|a n|letter !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	they want to (.) get a balloon .
+%mor:	pro:sub|they v|want inf|to v|get det:art|a n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	and they build a sandcastle .
+%mor:	coord|and pro:sub|they v|build det:art|a n|+n|sand+n|castle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and they try to go in the sand and xxx [^ sounds like 'blom'] .
+%mor:	coord|and pro:sub|they v|try inf|to v|go prep|in det:art|the n|sand
+	coord|and .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|3|PUNCT
+*CHI:	and he said sorry .
+%mor:	coord|and pro:sub|he v|say&PAST adj|sorry .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	xxx [^ says something under breath] .
+*CHI:	and the bunny rabbit was so happy today .
+%mor:	coord|and det:art|the n|bunny n|rabbit cop|be&PAST&13S adv|so
+	adj|happy adv:tem|today .
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|5|JCT
+	9|5|PUNCT
+*CHI:	and (.) they was so (.) pushing in (.) the case .
+%mor:	coord|and pro:sub|they cop|be&PAST&13S adv|so part|push-PRESP
+	prep|in det:art|the n|case .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	he pushed them in .
+%mor:	pro:sub|he v|push-PAST pro:obj|them adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	and they was so happy to go .
+%mor:	coord|and pro:sub|they cop|be&PAST&13S adv|so adj|happy inf|to v|go
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|INF 7|5|XCOMP 8|3|PUNCT
+*CHI:	then he was so happy to go see her .
+%mor:	adv:tem|then pro:sub|he cop|be&PAST&13S adv|so adj|happy inf|to
+	v|go v|see pro:obj|her .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|INF 7|8|SRL 8|5|CMOD
+	9|8|OBJ 10|3|PUNCT
+*CHI:	and that (.) is the end . [+ bch]
+%mor:	coord|and pro:rel|that cop|be&3S det:art|the n|end .
+%gra:	1|3|LINK 2|3|LINK 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+@Eg:	B2
+@Bg:	B3
+*CHI:	this is a balloon .
+%mor:	pro:dem|this cop|be&3S det:art|a n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	they got a balloon (.) to (.) put it on the wagon [!] .
+%mor:	pro:sub|they v|get&PAST det:art|a n|balloon inf|to v|put&ZERO
+	pro:per|it prep|on det:art|the n|wagon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|INF 6|4|XMOD 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*CHI:	then he (i)s trying to pull it off .
+%mor:	adv:tem|then pro:sub|he aux|be&3S part|try-PRESP inf|to v|pull
+	pro:per|it adv|off .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*CHI:	and him xxx [^ swing?] was flying <in> [/] in the sky .
+%mor:	coord|and pro:obj|him aux|be&PAST&13S part|fly-PRESP prep|in
+	det:art|the n|sky .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and it was flying .
+%mor:	coord|and pro:per|it aux|be&PAST&13S part|fly-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	and it broked [: broke] [* m:+ed] and broked [: broke] [* m:+ed] .
+%mor:	coord|and pro:per|it v|break&PAST coord|and adj|broke .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*CHI:	then (.) he gots [: has got] more balloons .
+%mor:	adv:tem|then pro:sub|he aux|have&3S part|get&PASTP qn|more
+	n|balloon-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*CHI:	and (.) he went go get some more .
+%mor:	coord|and pro:sub|he v|go&PAST v|go v|get qn|some pro:indef|more .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SRL 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+*CHI:	then (.) oh <wa> [//] lots of balloons today .
+%mor:	adv:tem|then co|oh n|lot-PL prep|of n|balloon-PL adv:tem|today .
+%gra:	1|6|JCT 2|6|COM 3|6|MOD 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	and he said (.) no I want a balloon .
+%mor:	coord|and pro:sub|he v|say&PAST co|no pro:sub|I v|want det:art|a
+	n|balloon .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|COM 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*CHI:	said (.) I want to [^ wanna] have a balloon !
+%mor:	v|say&PAST pro:sub|I v|want inf|to v|have det:art|a n|balloon !
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+*CHI:	I want a balloon !
+%mor:	pro:sub|I v|want det:art|a n|balloon !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and they saw (.) more [!] balloons .
+%mor:	coord|and pro:sub|they v|see&PAST qn|more n|balloon-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	then he wants a balloon (.) and a balloon .
+%mor:	adv:tem|then pro:sub|he v|want-3S det:art|a n|balloon coord|and
+	det:art|a n|balloon .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+*CHI:	then he wants a balloon .
+%mor:	adv:tem|then pro:sub|he v|want-3S det:art|a n|balloon .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and he gets him .
+%mor:	coord|and pro:sub|he v|get-3S pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	and he (i)s so lucky to get a balloon .
+%mor:	coord|and pro:sub|he aux|be&3S adv|so adj|luck&dn-Y inf|to v|get
+	det:art|a n|balloon .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|INF 7|5|XCOMP 8|9|DET
+	9|7|OBJ 10|3|PUNCT
+*CHI:	and that (i)s the end . [+ bch]
+%mor:	coord|and pro:rel|that cop|be&3S det:art|the n|end .
+%gra:	1|3|LINK 2|3|LINK 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+@Eg:	B3
+@End

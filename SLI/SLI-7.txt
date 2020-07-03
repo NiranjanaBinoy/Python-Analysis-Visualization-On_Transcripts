@@ -1,0 +1,292 @@
+@UTF8
+@PID:	11312/c-00036136-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, EXA Investigator
+@ID:	eng|ENNI|CHI|6;10.09|male|SLI||Target_Child|||
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@Comment:	Birth of CHI is 18-JUN-1993
+@Date:	27-APR-2000
+@Tape Location:	Disk L11 Track 54
+@Bg:	A1
+*CHI:	there (i)s a guy <gi uh> [/] have candy .
+%mor:	adv|there cop|be&3S det:art|a n|guy v|have n|candy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|5|OBJ 7|2|PUNCT
+*CHI:	and he (i)s selling it .
+%mor:	coord|and pro:sub|he aux|be&3S part|sell-PRESP pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	<and he give> [/-] and <it> [//] one dropped into the water .
+%mor:	coord|and pro:indef|one v|drop-PAST prep|into det:art|the n|water .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and he swims for it .
+%mor:	coord|and pro:sub|he v|swim-3S prep|for pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and <he pulls um um> [/-] <he gots [: has got] it> [//] the other
+	guy gots [: has got it] .
+%mor:	coord|and det:art|the qn|other n|guy aux|have&3S part|get&PASTP
+	pro:per|it .
+%gra:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	<and he get um> [/] and <he get> [/] <and doesn't> [/] he does
+	n(o)t give it to him .
+%mor:	coord|and pro:sub|he mod|do&3S neg|not v|give pro:per|it prep|to
+	pro:obj|him .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	A1
+@Bg:	A2
+*CHI:	the guy is going to jump into the water .
+%mor:	det:art|the n|guy aux|be&3S part|go-PRESP inf|to v|jump prep|into
+	det:art|the n|water .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	the guy <um> [/] runs and runs .
+%mor:	det:art|the n|guy n|run-PL coord|and n|run-PL .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*CHI:	and <the guy> [//] the other guy he slips .
+%mor:	coord|and det:art|the qn|other n|guy pro:sub|he v|slip-3S .
+%gra:	1|0|INCROOT 2|4|DET 3|4|QUANT 4|1|COORD 5|6|SUBJ 6|4|CMOD 7|1|PUNCT
+*CHI:	and he falls down .
+%mor:	coord|and pro:sub|he v|fall-3S adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and he cries .
+%mor:	coord|and pro:sub|he v|cry-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	<and he> [/] and he has a booboo .
+%mor:	coord|and pro:sub|he v|have&3S det:art|a n|+on|boo+on|boo .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and he puts a bandaid on it .
+%mor:	coord|and pro:sub|he v|put-3S det:art|a n|bandaid prep|on
+	pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	and he carries him .
+%mor:	coord|and pro:sub|he v|carry-3S pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	puts him on the bench .
+%mor:	v|put-3S pro:obj|him prep|on det:art|the n|bench .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	A2
+@Bg:	A3
+*CHI:	the guy is looking at him .
+%mor:	det:art|the n|guy aux|be&3S part|look-PRESP prep|at pro:obj|him .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	and he has a airplane .
+%mor:	coord|and pro:sub|he v|have&3S det:art|a n|airplane .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and then the other guy takes the airplane and plays with it .
+%mor:	coord|and adv:tem|then det:art|the qn|other n|guy v|take-3S
+	det:art|the n|airplane coord|and v|play-3S prep|with pro:per|it .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|9|COORD 11|10|JCT 12|11|POBJ 13|6|PUNCT
+*CHI:	and then <it falls o> [/] it falls into the water .
+%mor:	coord|and adv:tem|then pro:per|it v|fall-3S prep|into det:art|the
+	n|water .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and then the other guy gets mad at him .
+%mor:	coord|and adv:tem|then det:art|the qn|other n|guy v|get-3S adj|mad
+	prep|at pro:obj|him .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|JCT
+	9|8|POBJ 10|6|PUNCT
+*CHI:	and <the other guy gets m> [/] <um the other guy> [/-] there (i)s
+	two guys standing (.) getting mad .
+%mor:	coord|and adv|there cop|be&3S det:num|two n|guy-PL part|stand-PRESP
+	part|get-PRESP adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|XMOD 7|6|OBJ 8|7|PRED
+	9|3|PUNCT
+*CHI:	and the other guy <ge um um> [/] gets scared .
+%mor:	coord|and det:art|the qn|other n|guy v|get-3S part|scare-PASTP .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and the other guy chases it (.) into the water .
+%mor:	coord|and det:art|the qn|other n|guy v|chase-3S pro:per|it
+	prep|into det:art|the n|water .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+*CHI:	<an> [/] and the other guy cries .
+%mor:	coord|and det:art|the qn|other n|guy v|cry-3S .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	and the other guy has a net .
+%mor:	coord|and det:art|the qn|other n|guy v|have&3S det:art|a n|net .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	and the other guy (.) takes it out of the pool .
+%mor:	coord|and det:art|the qn|other n|guy v|take-3S pro:per|it adv|out
+	prep|of det:art|the n|pool .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	and then he gives it back .
+%mor:	coord|and adv:tem|then pro:sub|he v|give-3S pro:per|it adv|back .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	and then <he> [/] he likes him .
+%mor:	coord|and adv:tem|then pro:sub|he v|like-3S pro:obj|him .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	A3
+@Bg:	B1
+*CHI:	<there (i)s a> [/] <there (i)s a bunny rabbit um um gonna make a>
+	[/] there (i)s a bunny rabbit who made a sandcastle .
+%mor:	adv|there cop|be&3S det:art|a n|bunny n|rabbit pro:rel|who
+	v|make&PAST det:art|a n|+n|sand+n|castle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|LINK 7|5|CMOD 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*CHI:	and <they (a)re> [//] both of them are making a sandcastle .
+%mor:	coord|and qn|both prep|of pro:obj|them aux|be&PRES part|make-PRESP
+	det:art|a n|+n|sand+n|castle .
+%gra:	1|6|LINK 2|6|QUANT 3|2|JCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*CHI:	and <they (a)re> [/] <they (a)re pour> [/] <they (a)re pouring it
+	on> [//] <on> [//] <the guy> [//] somebody (i)s pouring it on .
+%mor:	coord|and pro:indef|somebody aux|be&3S part|pour-PRESP pro:per|it
+	adv|on .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	and he (i)s breaking it .
+%mor:	coord|and pro:sub|he aux|be&3S part|break-PRESP pro:per|it .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and the other one gets (.) mad .
+%mor:	coord|and det:art|the qn|other pro:indef|one v|get-3S adj|mad .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*CHI:	no not mad I forgot . [+ bch]
+%mor:	co|no neg|not adj|mad pro:sub|I v|forget&PAST .
+%gra:	1|5|COM 2|1|NEG 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	it breaks .
+%mor:	pro:per|it v|break-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	and they make another one .
+%mor:	coord|and pro:sub|they v|make qn|another pro:indef|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	B1
+@Bg:	B2
+*CHI:	they have both baskets .
+%mor:	pro:sub|they v|have qn|both n|basket-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	the bunny rabbits has baskets .
+%mor:	det:art|the n|bunny n|rabbit-PL aux|have&3S n|basket-PL .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|INCROOT 6|5|PUNCT
+*CHI:	and <they gr> [/] they (a)re having a picnic .
+%mor:	coord|and pro:sub|they aux|be&PRES part|have-PRESP det:art|a
+	n|picnic .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	and then the other one eats all of his .
+%mor:	coord|and adv:tem|then det:art|the qn|other pro:indef|one v|eat-3S
+	adv|all prep|of det:poss|his .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|JCT
+	9|8|POBJ 10|6|PUNCT
+*CHI:	and then the other one <du um> [/] has <uh> [/] juice .
+%mor:	coord|and adv:tem|then det:art|the qn|other pro:indef|one v|have&3S
+	n|juice .
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	and then <the other one is wa um> [/] somebody (i)s walking .
+%mor:	coord|and adv:tem|then pro:indef|somebody aux|be&3S part|walk-PRESP
+	.
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	and some:body's pulling somebody's shirt .
+%mor:	coord|and pro:indef|somebody~aux|be&3S part|pull-PRESP
+	pro:indef|somebody~poss|s n|shirt .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|MOD 6|5|POSS 7|4|OBJ 8|4|PUNCT
+*CHI:	and some::body gets mad .
+%mor:	coord|and pro:indef|somebody v|get-3S adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	somebody brings somebody home .
+%mor:	pro:indef|somebody v|bring-3S pro:indef|somebody n|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	B2
+@Bg:	B3
+*CHI:	there (i)s a guy having a balloon in his (..) wagon .
+%mor:	adv|there cop|be&3S det:art|a n|guy part|have-PRESP det:art|a
+	n|balloon prep|in det:poss|his n|wagon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|2|PUNCT
+*CHI:	and the other one is walking .
+%mor:	coord|and det:art|the qn|other pro:indef|one aux|be&3S
+	part|walk-PRESP .
+%gra:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*CHI:	<and he w> [/] and he (i)s trying to take it off .
+%mor:	coord|and pro:sub|he aux|be&3S part|try-PRESP inf|to v|take
+	pro:per|it adv|off .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*CHI:	and then he <en> [//] unwraps it a little bit off .
+%mor:	coord|and adv:tem|then pro:sub|he un#v|wrap-3S pro:per|it det:art|a
+	adj|little n|bit adv|off .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|DET 7|8|MOD 8|5|OBJ
+	9|8|NJCT 10|4|PUNCT
+*CHI:	and then it flies away .
+%mor:	coord|and adv:tem|then pro:per|it n|fly-PL adv|away .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	and then <it float> [//] <he wrap um> [//] <the um> [/] the string
+	falls down .
+%mor:	coord|and adv:tem|then det:art|the n|string v|fall-3S adv|down .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	<why does your boss> [/] does your boss let you look at these pages
+	? [+ bch]
+%mor:	mod|do&3S det:poss|your n|boss v|let&ZERO pro:per|you cop|look
+	prep|at pro:dem|these n|page-PL ?
+%gra:	1|4|AUX 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*EXA:	she says while your doing them I (a)m not supposed to so I (a)m not
+	so you can see them, go ahead .
+%mor:	pro:sub|she v|say-3S conj|while det:poss|your part|do-PRESP
+	pro:obj|them pro:sub|I aux|be&1S neg|not part|suppose-PASTP prep|to
+	co|so pro:sub|I aux|be&1S neg|not conj|so pro:per|you mod|can v|see
+	pro:obj|them cm|cm v|go adv|ahead .
+%gra:	1|2|SUBJ 2|0|ROOT 3|10|LINK 4|5|MOD 5|10|JCT 6|5|OBJ 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|2|CJCT 11|10|JCT 12|14|COM 13|14|SUBJ 14|10|COMP 15|14|NEG
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|14|CJCT 20|19|OBJ 21|22|SUBJ
+	22|19|COMP 23|22|JCT 24|2|PUNCT
+*CHI:	the guy has balloons in his hand .
+%mor:	det:art|the n|guy aux|have&3S n|balloon-PL prep|in det:poss|his
+	n|hand .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*CHI:	<and the> [/] and the other one buys one .
+%mor:	coord|and det:art|the qn|other pro:indef|one n|buy-PL pro:indef|one
+	.
+%gra:	1|6|LINK 2|6|DET 3|4|QUANT 4|6|MOD 5|6|MOD 6|0|ROOT 7|6|PUNCT
+*CHI:	<and then he> [/] and <then he sh> [/] then he (.) checks in his
+	pocket for money .
+%mor:	coord|and adv:tem|then pro:sub|he n|check-PL prep|in det:poss|his
+	n|pocket prep|for n|money .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|JCT
+	9|8|POBJ 10|4|PUNCT
+*CHI:	and he does n(o)t have money .
+%mor:	coord|and pro:sub|he mod|do&3S neg|not v|have n|money .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	he checks it for money .
+%mor:	pro:sub|he v|check-3S pro:per|it prep|for n|money .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	and he can n(o)t get one .
+%mor:	coord|and pro:sub|he mod|can neg|not v|get pro:indef|one .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	<and> [/] and <he was allowed to ah> [/] <the other one (.) is>
+	[//] <the uh> [/] there was a man (.) <heh uh> [//] selling
+	balloons .
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a n|man part|sell-PRESP
+	n|balloon-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|3|PUNCT
+*CHI:	and then he gives one to him .
+%mor:	coord|and adv:tem|then pro:sub|he v|give-3S pro:indef|one prep|to
+	pro:obj|him .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	and the other one has a balloon .
+%mor:	coord|and det:art|the qn|other pro:indef|one v|have&3S det:art|a
+	n|balloon .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	and the other [!] one has a balloon .
+%mor:	coord|and det:art|the qn|other pro:indef|one v|have&3S det:art|a
+	n|balloon .
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	the end . [+ bch]
+%mor:	det:art|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Eg:	B3
+@End

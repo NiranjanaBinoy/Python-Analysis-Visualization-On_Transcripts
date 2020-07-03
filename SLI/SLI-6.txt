@@ -1,0 +1,279 @@
+@UTF8
+@PID:	11312/c-00036130-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, EXA Investigator
+@ID:	eng|ENNI|CHI|5;01.05|male|SLI||Target_Child|||
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@Comment:	Birth of CHI is 01-APR-1997
+@Date:	06-MAY-2002
+@Tape Location:	Disk M12, Track 27
+@Bg:	A1
+*CHI:	I don't know ! [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know !
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	I don't know that one . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know pro:dem|that pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*EXA:	what happens in this story ?
+%mor:	pro:int|what v|happen-3S prep|in pro:dem|this n|story ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	I don't know . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	I don't know . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*EXA:	I guess there is no story in this book at all then, heh .
+%mor:	pro:sub|I n|guess adv|there cop|be&3S qn|no n|story prep|in
+	pro:dem|this n|book prep|at qn|all adv:tem|then cm|cm co|eh .
+%gra:	1|2|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|PRED 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|JCT 11|12|QUANT 12|10|POBJ 13|12|LP 14|10|POBJ 15|4|PUNCT
+*EXA:	empty pages ?
+%mor:	adj|empty n|page-PL ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	I don't know this [^ pages are being turned] . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know pro:dem|this .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*EXA:	I guess that the end of that one .
+%mor:	pro:sub|I v|guess pro:rel|that det:art|the n|end prep|of
+	pro:dem|that pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+@Eg:	A1
+@Bg:	A2
+*CHI:	he (i)s (.) going to the diving board .
+%mor:	pro:sub|he aux|be&3S part|go-PRESP prep|to det:art|the
+	part|dive-PRESP n|board .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*CHI:	and <they star> [/-] she (i)s walking .
+%mor:	coord|and pro:sub|she aux|be&3S part|walk-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	<and she sl> [//] <sh> [//] <its> [//] and it (i)s slippery !
+%mor:	coord|and pro:per|it cop|be&3S adj|slippery !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and she fell and hurt her knee .
+%mor:	coord|and pro:sub|she v|fall&PAST coord|and v|hurt&ZERO
+	det:poss|her n|knee .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|MOD 7|5|OBJ 8|3|PUNCT
+*CHI:	<and he xxxx> [/-] <and (.) she> [/-] it was a bandaids .
+%mor:	pro:per|it cop|be&PAST&13S det:art|a n|bandaid-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	<sh> [/-] <the> [//] <there's a bandaid> [/] and there (i)s (.) a
+	<ta> [//] bandaid on her foot .
+%mor:	coord|and adv|there cop|be&3S det:art|a n|bandaid prep|on
+	det:poss|her n|foot .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*CHI:	and <she's> [/] she (i)s sitting on the bench .
+%mor:	coord|and pro:sub|she aux|be&3S part|sit-PRESP prep|on det:art|the
+	n|bench .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+@Eg:	A2
+@Bg:	A3
+*CHI:	<he> [/] he gots [: has got] a airplane .
+%mor:	pro:sub|he aux|have&3S part|get&PASTP det:art|a n|airplane .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and he (i)s going to [: gonna] throw it at the water .
+%mor:	coord|and pro:sub|he aux|be&3S part|go-PRESP part|go-PRESP~inf|to
+	v|throw pro:per|it prep|at det:art|the n|water .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*CHI:	<and he> [/] <and he's> [//] and <he's> [//] she (i)s [!] going to
+	[: gonna] throw .
+%mor:	coord|and pro:sub|she aux|be&3S part|go-PRESP part|go-PRESP~inf|to
+	v|throw .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|XCOMP 8|4|PUNCT
+*CHI:	and it (i)s at the water !
+%mor:	coord|and pro:per|it cop|be&3S prep|at det:art|the n|water !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and it (i)s wet !
+%mor:	coord|and pro:per|it aux|be&3S part|wet&PASTP !
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	and he [!] was (.) in it .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S prep|in pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	and his airplane (.) was (.) not .
+%mor:	coord|and det:poss|his n|airplane aux|be&PAST&13S neg|not .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|3|CMOD 5|4|NEG 6|1|PUNCT
+*CHI:	it was snowing !
+%mor:	pro:per|it aux|be&PAST&13S part|snow-PRESP !
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	<and> [/] and his boat was in the water .
+%mor:	coord|and det:poss|his n|boat cop|be&PAST&13S prep|in det:art|the
+	n|water .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and he can't reach [!] it .
+%mor:	coord|and pro:sub|he mod|can~neg|not v|reach pro:per|it .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	and how they reach (.) with the net .
+%mor:	coord|and adv:int|how pro:sub|they v|reach prep|with det:art|the
+	n|net .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	the net will help .
+%mor:	det:art|the n|net mod|will co|help .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|PUNCT
+*CHI:	<he gots [: has got] > [/] <he gots his airplane> [/] <and he> [/]
+	and he gots [: has got] his airplane back .
+%mor:	coord|and pro:sub|he aux|have&3S part|get&PASTP det:poss|his
+	n|airplane adv|back .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|PUNCT
+@Eg:	A3
+@Bg:	B1
+*CHI:	one time <wh> [/] when they (..)  +/.
+%mor:	det:num|one n|time conj|when pro:sub|they +/.
+%gra:	1|2|QUANT 2|0|ROOT 3|2|PUNCT 4|3|INCROOT 5|4|PUNCT
+*EXA:	I can't see the pictures (.) one day +...
+%mor:	pro:sub|I mod|can~neg|not v|see det:art|the n|picture-PL
+	det:num|one n|day +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|8|MOD 7|8|QUANT 8|4|OBJ
+	9|4|PUNCT
+*CHI:	don't know [^ !] . [+ bch]
+%mor:	mod|do~neg|not v|know .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*EXA:	okay let's try the next page .
+%mor:	co|okay v|let~pro:obj|us v|try det:art|the adj|next n|page .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|7|DET 6|7|MOD 7|4|OBJ 8|2|PUNCT
+*EXA:	(..) what happens in the story ?
+%mor:	pro:int|what v|happen-3S prep|in det:art|the n|story ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	I don't know [!] . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*EXA:	(..) do you want me to turn the page again ?
+%mor:	mod|do pro:per|you v|want pro:obj|me inf|to v|turn det:art|the
+	n|page adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|3|PUNCT
+*CHI:	yeah . [+ bch]
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(..) I don't know . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	(...) I don't . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*EXA:	look at the pictures and tell me what you think is happening in the
+	story .
+%mor:	cop|look prep|at det:art|the n|picture-PL coord|and v|tell
+	pro:obj|me pro:int|what pro:per|you v|think aux|be&3S
+	part|happen-PRESP prep|in det:art|the n|story .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|CONJ 6|5|COORD 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|6|COMP 11|12|AUX 12|10|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|1|PUNCT
+*CHI:	sitting there in [?] to the castle .
+%mor:	part|sit-PRESP adv|there adv|in prep|to det:art|the n|castle .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*CHI:	it come down .
+%mor:	pro:per|it v|come adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	he (i)s fixing the castle .
+%mor:	pro:sub|he aux|be&3S part|fix-PRESP det:art|the n|castle .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	and then (.) no pictures . [+ bch]
+%mor:	coord|and adv:tem|then qn|no n|picture-PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+@Eg:	B1
+@Bg:	B2
+@Comment:	child not responsive, continually repeated I don't know, the
+	examiner is on the second page at this point.
+*EXA:	it's your story, you get to decide what's in there .
+%mor:	pro:per|it~cop|be&3S det:poss|your n|story cm|cm pro:per|you v|get
+	inf|to v|decide pro:int|what~poss|s adv|in adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|LP 6|7|SUBJ 7|2|PRED 8|9|INF
+	9|7|XCOMP 10|9|OBJ 11|10|POSS 12|13|JCT 13|10|JCT 14|2|PUNCT
+*CHI:	they are eating .
+%mor:	pro:sub|they aux|be&PRES part|eat-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	the other one has a tummyache .
+%mor:	det:art|the qn|other pro:indef|one v|have&3S det:art|a
+	n|+n|tummy+n|ache .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	he got sick [?] <sh> [/] .
+%mor:	pro:sub|he v|get&PAST adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	he got tired and sick .
+%mor:	pro:sub|he aux|get&PAST part|tire-PASTP coord|and adj|sick .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	I don't know [!] . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	I don't know . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	I don't know . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+@Eg:	B2
+@Bg:	B3
+*CHI:	I don't know . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*EXA:	what happens in the story ?
+%mor:	pro:int|what v|happen-3S prep|in det:art|the n|story ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	I don't know . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	<he's pulli> [//] <he's pu> [//] she's pulling the wagon .
+%mor:	pro:sub|she~aux|be&3S part|pull-PRESP det:art|the n|wagon .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	there's a balloon on the wagon .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|balloon prep|on det:art|the
+	n|wagon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	and it (i)s tied up .
+%mor:	coord|and pro:per|it aux|be&3S part|tie-PASTP adv|up .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	and that balloon got up to the sky .
+%mor:	coord|and pro:dem|that n|balloon v|get&PAST adv|up prep|to
+	det:art|the n|sky .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*CHI:	he (i)s looking up to the sky .
+%mor:	pro:sub|he aux|be&3S part|look-PRESP adv|up prep|to det:art|the
+	n|sky .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	and there (i)s more [!] balloons .
+%mor:	coord|and adv|there cop|be&3S qn|more n|balloon-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*CHI:	and there (i)s a balloons .
+%mor:	coord|and adv|there cop|be&3S det:art|a n|balloon-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*CHI:	but there (i)s two .
+%mor:	conj|but adv|there cop|be&3S det:num|two .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and he just (.) pockets .
+%mor:	coord|and pro:sub|he adv|just v|pocket-3S .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	and went (.) that number five [^ !] .
+%mor:	coord|and v|go&PAST pro:dem|that n|number det:num|five .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CHI:	the balloons that blow it up to the sky .
+%mor:	det:art|the n|balloon-PL pro:dem|that n|blow pro:per|it adv|up
+	prep|to det:art|the n|sky .
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|XMOD 5|4|OBJ 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*CHI:	<and the> [/] <and the> [/] he xxx worked with that .
+%mor:	pro:sub|he v|work-PAST prep|with pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	<ah (.) uh> [/] .
+*EXA:	anything on this page ?
+%mor:	pro:indef|anything prep|on pro:dem|this n|page ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	<ah uh> [/] I don't know . [+ bch]
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	there was two balloons left [^ !] .
+%mor:	pro:exist|there cop|be&PAST&13S det:num|two n|balloon-PL
+	v|leave&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|SUBJ 5|2|PRED 6|2|PUNCT
+*CHI:	<there is a> [//] they got a balloon .
+%mor:	pro:sub|they v|get&PAST det:art|a n|balloon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+@Eg:	B3
+@End

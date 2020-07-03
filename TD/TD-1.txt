@@ -1,0 +1,463 @@
+@UTF8
+@PID:	11312/c-00036186-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, EXA Investigator
+@ID:	eng|ENNI|CHI|4;07.12|male|TD||Target_Child|||
+@ID:	eng|ENNI|EXA|||||Investigator|||
+@Comment:	Birth of CHI is 5-JUL-1995
+@Date:	24-MAR-2000
+@Tape Location:	Disk M1 Track 10
+@Bg:	a1
+*CHI:	that is a elephant .
+%mor:	pro:dem|that cop|be&3S det:art|a n|elephant .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	and that is a cow .
+%mor:	coord|and pro:rel|that cop|be&3S det:art|a n|cow .
+%gra:	1|3|LINK 2|3|LINK 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*EXA:	that's what ?
+%mor:	pro:dem|that~cop|be&3S pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	a cow . [+ bch]
+%mor:	det:art|a n|cow .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	that (i)s elephant .
+%mor:	pro:dem|that cop|be&3S n|elephant .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	and then that (i)s a cow (.) again .
+%mor:	coord|and adv:tem|then pro:rel|that cop|be&3S det:art|a n|cow
+	adv|again .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|LINK 4|2|CMOD 5|6|DET 6|4|PRED 7|6|NJCT
+	8|1|PUNCT
+*CHI:	a elephant and a cow .
+%mor:	det:art|a n|elephant coord|and det:art|a n|cow .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*EXA:	oh you wanted to turn the pages sorry .
+%mor:	co|oh pro:per|you v|want-PAST inf|to v|turn det:art|the n|page-PL
+	adj|sorry .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|7|POSTMOD
+	9|3|PUNCT
+*EXA:	tell me the story .
+%mor:	v|tell pro:obj|me det:art|the n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	<that> [/] that guy fell in the mud .
+%mor:	pro:dem|that n|guy v|fall&PAST prep|in det:art|the n|mud .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	and this girl <picked her up> [//] <pick up> [//] picked him up (.)
+	elephant .
+%mor:	coord|and pro:dem|this n|girl v|pick-PAST pro:obj|him adv|up
+	n|elephant .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	and he was very mad at her .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adv|very adj|mad prep|at
+	pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|JCT 7|6|POBJ 8|3|PUNCT
+@Eg:	a1
+@Bg:	a2
+*CHI:	they were gonna go in the pool right ? [+ bch]
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP~inf|to v|go prep|in
+	det:art|the n|pool adj|right ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|3|PUNCT
+*EXA:	can you say that louder so I can hear better ?
+%mor:	mod|can pro:per|you v|say det:dem|that adj|loud-CP co|so pro:sub|I
+	mod|can v|hear adj|good&CP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PRED 6|9|COM 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|9|JCT 11|3|PUNCT
+*CHI:	<th> [/] they were going to go in the pool .
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP inf|to v|go prep|in
+	det:art|the n|pool .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*EXA:	oh okay remember I can-'nt [: can't] see the pictures so you have to
+	tell me so I can hear it .
+%mor:	co|oh co|okay v|remember pro:sub|I mod|can~neg|not v|see
+	det:art|the n|picture-PL conj|so pro:per|you v|have inf|to v|tell
+	pro:obj|me conj|so pro:sub|I mod|can v|hear pro:per|it .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|COMP 8|9|DET
+	9|7|OBJ 10|12|LINK 11|12|SUBJ 12|3|CJCT 13|14|INF 14|12|XCOMP 15|14|OBJ
+	16|19|LINK 17|19|SUBJ 18|19|AUX 19|14|CJCT 20|19|OBJ 21|3|PUNCT
+*CHI:	<um> [/] she (.) was gonna hurt herself (.) when she went .
+%mor:	pro:sub|she aux|be&PAST&13S part|go-PRESP~inf|to v|hurt&ZERO
+	pro:refl|herself conj|when pro:sub|she v|go&PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|3|PUNCT
+*CHI:	(...) and she hurt herself .
+%mor:	coord|and pro:sub|she v|hurt&ZERO pro:refl|herself .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*EXA:	(...) what (i)s happening in that picture ?
+%mor:	pro:int|what aux|be&3S part|happen-PRESP prep|in pro:dem|that
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	she hurt herself . [+ bch]
+%mor:	pro:sub|she v|hurt&ZERO pro:refl|herself .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	she got a scratch .
+%mor:	pro:sub|she v|get&PAST det:art|a n|scratch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	(.) and then that guy came .
+%mor:	coord|and adv:tem|then pro:rel|that n|guy v|come&PAST .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|1|PUNCT
+*CHI:	<and> [/] (...) and then she had a bandaid on .
+%mor:	coord|and adv:tem|then pro:sub|she v|have&PAST det:art|a n|bandaid
+	adv|on .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*EXA:	(...) what (i)s happening on this one now ?
+%mor:	pro:int|what aux|be&3S part|happen-PRESP prep|on pro:dem|this
+	pro:indef|one adv|now ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|3|PUNCT
+*CHI:	<hm> [/] (.) they (.) were happy .
+%mor:	pro:sub|they cop|be&PAST adj|happy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*EXA:	oh okay .
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	this guy (i)s mad .
+%mor:	pro:dem|this n|guy cop|be&3S adj|mad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	he is .
+%mor:	pro:sub|he cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*EXA:	is that the end ?
+%mor:	cop|be&3S pro:rel|that det:art|the n|end ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CHI:	yup . [+ bch]
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Eg:	a2
+@Bg:	a3
+*CHI:	he had the airplane .
+%mor:	pro:sub|he v|have&PAST det:art|the n|airplane .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	and it was his .
+%mor:	coord|and pro:per|it cop|be&PAST&13S det:poss|his .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and this guy (.) got it all tangled .
+%mor:	coord|and pro:dem|this n|guy v|get&PAST pro:per|it adv|all
+	part|tangle-PASTP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|JCT 7|4|XJCT 8|4|PUNCT
+*CHI:	and the girl had it now .
+%mor:	coord|and det:art|the n|girl v|have&PAST pro:per|it adv|now .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	<and (.) now the girl (.)> [//]
+	[^ EXA: what (i)s that I did n(o)t hear] then the girl dropped it in
+	there .
+%mor:	adv:tem|then det:art|the n|girl v|drop-PAST pro:per|it prep|in
+	adv|there .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*EXA:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	she dropped it in there .
+%mor:	pro:sub|she v|drop-PAST pro:per|it prep|in adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	and this guy was mad .
+%mor:	coord|and pro:dem|this n|guy cop|be&PAST&13S adj|mad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	(...) <now they were both> [/] now they were both mad .
+%mor:	adv|now pro:sub|they cop|be&PAST qn|both adj|mad .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|3|PUNCT
+*CHI:	(...) and that [!] girl .
+%mor:	coord|and pro:dem|that n|girl .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	lots of pages . [+ bch]
+%mor:	n|lot-PL prep|of n|page-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*EXA:	yeah yeah but on this page can you tell me what (i)s happening
+	because I can-'nt [: can't] see .
+%mor:	co|yeah co|yeah conj|but prep|on pro:dem|this n|page mod|can
+	pro:per|you v|tell pro:obj|me pro:int|what aux|be&3S
+	part|happen-PRESP conj|because pro:sub|I mod|can~neg|not v|see .
+%gra:	1|2|COM 2|9|COM 3|9|LINK 4|9|JCT 5|6|DET 6|9|SUBJ 7|9|AUX 8|9|SUBJ
+	9|0|ROOT 10|9|OBJ 11|13|LINK 12|13|AUX 13|9|COMP 14|18|LINK 15|18|SUBJ
+	16|18|AUX 17|16|NEG 18|9|CJCT 19|9|PUNCT
+*CHI:	<um> [/] the girl (i)s mad .
+%mor:	det:art|the n|girl cop|be&3S adj|mad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and now that guy was going to reach it .
+%mor:	coord|and adv|now pro:rel|that n|guy aux|be&PAST&13S part|go-PRESP
+	inf|to v|reach pro:per|it .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CMOD 7|8|INF
+	8|6|XCOMP 9|8|OBJ 10|1|PUNCT
+*CHI:	and he could n(o)t .
+%mor:	coord|and pro:sub|he mod|could neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*CHI:	(.) and then this guy was crying .
+%mor:	coord|and adv:tem|then pro:dem|this n|guy aux|be&PAST&13S
+	part|cry-PRESP .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*CHI:	and this girl xxx .
+%mor:	coord|and pro:dem|this n|girl .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	yes she did .
+%mor:	co|yes pro:sub|she v|do&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	(...) and <this girl xxx> [/] [^ EXA: what is that] this girl was
+	going to catch it .
+%mor:	coord|and pro:dem|this n|girl aux|be&PAST&13S part|go-PRESP inf|to
+	v|catch pro:per|it .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|5|PUNCT
+*CHI:	and she caught [!] it .
+%mor:	coord|and pro:sub|she v|catch&PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*EXA:	oh okay, and on this page what (i)s happening ?
+%mor:	co|oh co|okay cm|cm coord|and prep|on pro:dem|this n|page
+	pro:int|what aux|be&3S part|happen-PRESP ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|LP 4|2|CONJ 5|10|JCT 6|7|DET 7|5|POBJ 8|10|SUBJ
+	9|10|AUX 10|4|COORD 11|2|PUNCT
+*CHI:	she caught [!] it . [+ bch]
+%mor:	pro:sub|she v|catch&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	(..) then she gave it to him .
+%mor:	adv:tem|then pro:sub|she v|give&PAST pro:per|it prep|to pro:obj|him
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	(...) <then (.) he> [/] then she was happy .
+%mor:	adv:tem|then pro:sub|she cop|be&PAST&13S adj|happy .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@Eg:	a3
+@Bg:	b1
+*CHI:	he (.) and him builded a castle .
+%mor:	pro:sub|he coord|and pro:obj|him v|build-PAST det:art|a n|castle .
+%gra:	1|4|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	(..) and then that guy was going to [: gonna] build a really high
+	+...
+%mor:	coord|and adv:tem|then pro:rel|that n|guy aux|be&PAST&13S
+	part|go-PRESP part|go-PRESP~inf|to v|build det:art|a
+	adv|real&dadj-LY adj|high +...
+%gra:	1|0|INCROOT 2|1|COORD 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CMOD 7|6|OBJ
+	8|9|INF 9|7|XCOMP 10|12|DET 11|12|JCT 12|9|OBJ 13|1|PUNCT
+*CHI:	and then it spilled all over .
+%mor:	coord|and adv:tem|then pro:per|it v|spill-PAST adv|all adv|over .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+*CHI:	and then (..) it was broken !
+%mor:	coord|and adv:tem|then pro:per|it aux|be&PAST&13S part|break&PASTP
+	!
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	and he was mad .
+%mor:	coord|and pro:sub|he cop|be&PAST&13S adj|mad .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	it was all his fault .
+%mor:	pro:per|it aux|be&PAST&13S adv|all det:poss|his n|fault .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|JCT 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	he did it .
+%mor:	pro:sub|he mod|do&PAST pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*EXA:	what did you say what did you say honey ?
+%mor:	pro:int|what mod|do&PAST pro:per|you v|say pro:int|what mod|do&PAST
+	pro:per|you v|say n|honey ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|SUBJ 8|4|COMP
+	9|8|OBJ 10|4|PUNCT
+*CHI:	this guy was (.) sad .
+%mor:	pro:dem|this n|guy cop|be&PAST&13S adj|sad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	and (.) <that guy (..) was n(o)t happy> [/-] [^ no] <this guy> [//]
+	that guy was crying .
+%mor:	coord|and pro:dem|that n|guy aux|be&PAST&13S part|cry-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+@Eg:	b1
+@Bg:	b2
+*CHI:	that guy was running .
+%mor:	pro:dem|that n|guy aux|be&PAST&13S part|run-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	&=whispers he was . [+ bch]
+%mor:	pro:sub|he cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	and then (.) that guy was going [^ sticking tongue out] .
+%mor:	coord|and adv:tem|then pro:rel|that n|guy aux|be&PAST&13S
+	part|go-PRESP .
+%gra:	1|0|INCROOT 2|1|COORD 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CMOD 7|1|PUNCT
+*CHI:	&=whispers he was . [+ bch]
+%mor:	pro:sub|he cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*EXA:	can you say that louder ?
+%mor:	mod|can pro:per|you v|say det:dem|that adj|loud-CP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PRED 6|3|PUNCT
+*CHI:	he was going like [^ sticks out tongue] the bunny was .
+%mor:	pro:sub|he aux|be&PAST&13S part|go-PRESP prep|like det:art|the
+	n|bunny cop|be&PAST&13S .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|7|SUBJ 7|4|POBJ 8|3|PUNCT
+*EXA:	oh sticking his tongue out .
+%mor:	co|oh part|stick-PRESP det:poss|his n|tongue adv|out .
+%gra:	1|2|COM 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*CHI:	yeah sticking his tongue out . [+ bch]
+%mor:	co|yeah part|stick-PRESP det:poss|his n|tongue adv|out .
+%gra:	1|2|COM 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*CHI:	(..) now he sat down .
+%mor:	adv|now pro:sub|he v|sit&PAST adv|down .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	like he went like this [^ shaking head] .
+%mor:	conj|like pro:sub|he v|go&PAST prep|like pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	(..) and that guy was [^ shakes head] .
+%mor:	coord|and pro:dem|that n|guy cop|be&PAST&13S .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*EXA:	shaking his head ?
+%mor:	part|shake-PRESP det:poss|his n|head ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	mhm . [+ bch]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that guy ran to him .
+%mor:	pro:dem|that n|guy v|run&PAST prep|to pro:obj|him .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*EXA:	what was that ?
+%mor:	pro:int|what cop|be&PAST&13S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	that guy ran to him . [+ bch]
+%mor:	pro:dem|that n|guy v|run&PAST prep|to pro:obj|him .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	then <he> [//] did he xxx .
+%mor:	adv:tem|then mod|do&PAST pro:sub|he .
+%gra:	1|3|JCT 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*EXA:	he did what ?
+%mor:	pro:sub|he v|do&PAST pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	<this guy> [/] <this guy pulled him> [/] this guy pulled him .
+%mor:	pro:dem|this n|guy v|pull-PAST pro:obj|him .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	<um> [/] now this guy was going [^ shaking head] again .
+%mor:	adv|now pro:dem|this n|guy aux|be&PAST&13S part|go-PRESP adv|again
+	.
+%gra:	1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*EXA:	shaking his head again ?
+%mor:	part|shake-PRESP det:poss|his n|head adv|again ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|JCT 5|1|PUNCT
+*CHI:	yeah . [+ bch]
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	now that guy was in the sand [?] .
+%mor:	adv|now pro:rel|that n|guy cop|be&PAST&13S prep|in det:art|the
+	n|sand .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CMOD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*CHI:	and then <that guy> [/] this guy <b> [//] walked with (h)im .
+%mor:	coord|and adv:tem|then pro:dem|this n|guy v|walk-PAST prep|with
+	pro:obj|him .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+@Eg:	b2
+@Bg:	b3
+*CHI:	that guy was running again .
+%mor:	pro:dem|that n|guy aux|be&PAST&13S part|run-PRESP adv|again .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	this guy was . [+ bch]
+%mor:	pro:dem|this n|guy cop|be&PAST&13S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	no that guy was . [+ bch]
+%mor:	qn|no pro:dem|that n|guy cop|be&PAST&13S .
+%gra:	1|3|QUANT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	<that guy was> [//] that bunny was going to [: gonna] take that
+	balloon !
+%mor:	pro:dem|that n|bunny aux|be&PAST&13S part|go-PRESP
+	part|go-PRESP~inf|to v|take pro:dem|that n|balloon !
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|XCOMP 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*CHI:	then he got it .
+%mor:	adv:tem|then pro:sub|he v|get&PAST pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	and he untied it .
+%mor:	coord|and pro:sub|he un#v|tie-PAST pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*EXA:	can you talk louder so I can hear ?
+%mor:	mod|can pro:per|you v|talk adj|loud-CP conj|so pro:sub|I mod|can
+	v|hear ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|CJCT
+	9|3|PUNCT
+*CHI:	he untied it ! [+ bch]
+%mor:	pro:sub|he un#v|tie-PAST pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	and it flew away .
+%mor:	coord|and pro:per|it v|fly&PAST adv|away .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	and it should n(o)t do that . [+ bch]
+%mor:	coord|and pro:per|it mod|should neg|not v|do pro:dem|that .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*EXA:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that bunny should n(o)t do that .
+%mor:	pro:dem|that n|bunny mod|should neg|not v|do pro:dem|that .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*EXA:	oh, she didn't do that, okay .
+%mor:	co|oh cm|cm pro:sub|she mod|do&PAST~neg|not v|do pro:dem|that cm|cm
+	adj|okay .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|7|LP 9|6|JCT
+	10|6|PUNCT
+*CHI:	he did n(o)t (.) do it . [+ bch]
+%mor:	pro:sub|he mod|do&PAST neg|not v|do pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	and then that [!] guy (.) was really mad .
+%mor:	coord|and adv:tem|then pro:rel|that n|guy cop|be&PAST&13S
+	adv|real&dadj-LY adj|mad .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|7|JCT 7|5|PRED
+	8|1|PUNCT
+*CHI:	and then (..) that guy saw that guy .
+%mor:	coord|and adv:tem|then pro:rel|that n|guy v|see&PAST pro:rel|that
+	n|guy .
+%gra:	1|0|INCROOT 2|1|COORD 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|7|MOD 7|5|OBJ
+	8|1|PUNCT
+*CHI:	and he had (.) more balloons .
+%mor:	coord|and pro:sub|he v|have&PAST qn|more n|balloon-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	(..) then this guy ran up to him .
+%mor:	adv:tem|then pro:dem|this n|guy v|run&PAST adv|up prep|to
+	pro:obj|him .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	then he was going to [: gonna] get a balloon .
+%mor:	adv:tem|then pro:sub|he aux|be&PAST&13S part|go-PRESP
+	part|go-PRESP~inf|to v|get det:art|a n|balloon .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|XCOMP 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*EXA:	did you tell me about this page ?
+%mor:	v|do&PAST pro:per|you v|tell pro:obj|me prep|about pro:dem|this
+	n|page ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	this guy <was> [//] ran up to (h)im [?] .
+%mor:	pro:dem|this n|guy v|run&PAST adv|up prep|to pro:obj|him .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	he got a balloon !
+%mor:	pro:sub|he v|get&PAST det:art|a n|balloon !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	then this guy was very sad .
+%mor:	adv:tem|then pro:dem|this n|guy cop|be&PAST&13S adv|very adj|sad .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+*CHI:	(..) then (.) this guy (.) got it .
+%mor:	adv:tem|then pro:dem|this n|guy v|get&PAST pro:per|it .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*EXA:	this guy what ?
+%mor:	pro:dem|this n|guy pro:int|what ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	this guy ! [+ bch]
+%mor:	pro:dem|this n|guy !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*EXA:	yeah what did you say ?
+%mor:	co|yeah pro:int|what mod|do&PAST pro:per|you v|say ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	this guy was here ! [+ bch]
+%mor:	pro:dem|this n|guy cop|be&PAST&13S adv|here !
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	then <that guy (.) said> [//] <he went over> [//] (.) this guy said
+	over there !
+%mor:	adv:tem|then pro:dem|this n|guy v|say&PAST adv|over adv|there !
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|PUNCT
+*EXA:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	this guy said over there . [+ bch]
+%mor:	pro:dem|this n|guy v|say&PAST adv|over adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+*CHI:	and then <this> [/] these two got a balloon .
+%mor:	coord|and adv:tem|then pro:dem|these det:num|two v|get&PAST
+	det:art|a n|balloon .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|QUANT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	then this guy (.) <ha> [//] sticked his teeth out
+	[^ exaggerated grin] .
+%mor:	adv:tem|then pro:dem|this n|guy v|stick-PAST det:poss|his
+	n|tooth&PL adv|out .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*EXA:	oh like a big grin .
+%mor:	co|oh prep|like det:art|a adj|big n|grin .
+%gra:	1|0|INCROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+@Eg:	b3
+@End
